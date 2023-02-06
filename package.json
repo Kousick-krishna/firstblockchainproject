@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "chai": "^4.3.7",
+    "ethers": "^6.0.2"
+  }
+}
